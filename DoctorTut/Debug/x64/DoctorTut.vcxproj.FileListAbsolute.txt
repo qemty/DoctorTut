@@ -1,0 +1,38 @@
+D:\Projects\DoctorTut\DoctorTut\Debug\x64\DoctorTut.vcxproj.AssemblyReference.cache
+D:\Projects\DoctorTut\DoctorTut\Debug\x64\DoctorTut.vcxproj.SuggestedBindingRedirects.cache
+D:\Projects\DoctorTut\DoctorTut\Debug\x64\DoctorTut.MyForm.resources
+D:\Projects\DoctorTut\DoctorTut\Debug\x64\DoctorTut.MyForm1.resources
+D:\Projects\DoctorTut\DoctorTut\Debug\x64\DoctorTut.vcxproj.GenerateResource.cache
+D:\Projects\DoctorTut\DoctorTut\Debug\x64\DoctorTut.vcxproj.CopyComplete
+D:\Projects\DoctorTut\DoctorTut\Debug\x64\DoctorTut.MyForm2.resources
+D:\Projects\DoctorTut\DoctorTut\Debug\x64\DoctorTut.MyForm3.resources
+D:\Projects\DoctorTut\DoctorTut\Debug\x64\DoctorTut.MyForm5.resources
+D:\Projects\DoctorTut\DoctorTut\Debug\x64\DoctorTut.MyForm4.resources
+D:\Projects\DoctorTut\DoctorTut\Debug\x64\DoctorTut.MyForm6.resources
+D:\Projects\DoctorTut\DoctorTut\Debug\x64\DoctorTut.MyForm7.resources
+D:\Projects\DoctorTut\DoctorTut\Debug\x64\DoctorTut.MyForm8.resources
+D:\Projects\DoctorTut\DoctorTut\Debug\x64\DoctorTut.MyForm10.resources
+D:\Projects\DoctorTut\DoctorTut\Debug\x64\DoctorTut.MyForm11.resources
+D:\Projects\DoctorTut\DoctorTut\Debug\x64\DoctorTut.MyForm12.resources
+D:\Projects\DoctorTut\DoctorTut\Debug\x64\DoctorTut.MyForm13.resources
+D:\Projects\DoctorTut\DoctorTut\Debug\x64\DoctorTut.MyForm9.resources
+D:\Projects\DoctorTut\DoctorTut\Debug\x64\DoctorTut.MyForm14.resources
+E:\192\2 курс\Курсач\DoctorTut\DoctorTut\Debug\x64\DoctorTut.vcxproj.AssemblyReference.cache
+E:\192\2 курс\Курсач\DoctorTut\DoctorTut\Debug\x64\DoctorTut.vcxproj.SuggestedBindingRedirects.cache
+E:\192\2 курс\Курсач\DoctorTut\DoctorTut\Debug\x64\DoctorTut.MyForm.resources
+E:\192\2 курс\Курсач\DoctorTut\DoctorTut\Debug\x64\DoctorTut.MyForm1.resources
+E:\192\2 курс\Курсач\DoctorTut\DoctorTut\Debug\x64\DoctorTut.MyForm10.resources
+E:\192\2 курс\Курсач\DoctorTut\DoctorTut\Debug\x64\DoctorTut.MyForm11.resources
+E:\192\2 курс\Курсач\DoctorTut\DoctorTut\Debug\x64\DoctorTut.MyForm12.resources
+E:\192\2 курс\Курсач\DoctorTut\DoctorTut\Debug\x64\DoctorTut.MyForm13.resources
+E:\192\2 курс\Курсач\DoctorTut\DoctorTut\Debug\x64\DoctorTut.MyForm14.resources
+E:\192\2 курс\Курсач\DoctorTut\DoctorTut\Debug\x64\DoctorTut.MyForm2.resources
+E:\192\2 курс\Курсач\DoctorTut\DoctorTut\Debug\x64\DoctorTut.MyForm3.resources
+E:\192\2 курс\Курсач\DoctorTut\DoctorTut\Debug\x64\DoctorTut.MyForm4.resources
+E:\192\2 курс\Курсач\DoctorTut\DoctorTut\Debug\x64\DoctorTut.MyForm5.resources
+E:\192\2 курс\Курсач\DoctorTut\DoctorTut\Debug\x64\DoctorTut.MyForm6.resources
+E:\192\2 курс\Курсач\DoctorTut\DoctorTut\Debug\x64\DoctorTut.MyForm7.resources
+E:\192\2 курс\Курсач\DoctorTut\DoctorTut\Debug\x64\DoctorTut.MyForm8.resources
+E:\192\2 курс\Курсач\DoctorTut\DoctorTut\Debug\x64\DoctorTut.MyForm9.resources
+E:\192\2 курс\Курсач\DoctorTut\DoctorTut\Debug\x64\DoctorTut.vcxproj.GenerateResource.cache
+E:\192\2 курс\Курсач\DoctorTut\DoctorTut\Debug\x64\DoctorTut.vcxproj.CopyComplete

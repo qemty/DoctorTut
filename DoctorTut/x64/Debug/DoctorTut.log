@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+  MyForm1.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  DoctorTut.vcxproj -> D:\Projects\DoctorTut\x64\Debug\DoctorTut.exe

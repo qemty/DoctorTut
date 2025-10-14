@@ -1,0 +1,5 @@
+D:\Projects\DoctorTut\DoctorTut\x64\Debug\DoctorTut.vcxproj.AssemblyReference.cache
+D:\Projects\DoctorTut\DoctorTut\x64\Debug\DoctorTut.vcxproj.SuggestedBindingRedirects.cache
+D:\Projects\DoctorTut\DoctorTut\x64\Debug\DoctorTut.MyForm.resources
+D:\Projects\DoctorTut\DoctorTut\x64\Debug\DoctorTut.MyForm1.resources
+D:\Projects\DoctorTut\DoctorTut\x64\Debug\DoctorTut.vcxproj.GenerateResource.cache
