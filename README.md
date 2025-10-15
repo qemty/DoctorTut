@@ -37,9 +37,9 @@ DoctorTUT is a Windows desktop application designed to facilitate online psychol
 
 ## 📁 Project Structure
 DoctorTUT/
-├── MyForm.cpp/h # Main application form
-├── MyForm1.cpp/h # Authorization form
-├── MyForm2.cpp/h # Registration form
+├── MyForm.cpp/h # Main application form \n
+├── MyForm1.cpp/h # Authorization form\n
+├── MyForm2.cpp/h # Registration form\n
 ├── MyForm3.cpp/h # Patient chat interface
 ├── MyForm6.cpp/h # Psychologist admin panel
 ├── MyForm7.cpp/h # Message management
